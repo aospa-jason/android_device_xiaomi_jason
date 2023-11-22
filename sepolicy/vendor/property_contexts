@@ -1,0 +1,11 @@
+# Camera
+camera.IMX386.actuator.update       u:object_r:camera_prop:s0
+camera.S5K3M3.actuator.update       u:object_r:camera_prop:s0
+persist.camera.dxoaf.sc             u:object_r:camera_prop:s0
+persist.camera.module.info          u:object_r:camera_prop:s0
+
+# Sensors
+persist.sys.sensors.                u:object_r:vendor_default_prop:s0
+ro.xiaomi.sar_fusion                u:object_r:vendor_default_prop:s0
+sys.panel.color                     u:object_r:vendor_sensors_prop:s0
+sys.panel.vendor                    u:object_r:vendor_sensors_prop:s0
