@@ -14,9 +14,9 @@
 # limitations under the License.
 
 PRODUCT_MAKEFILES := \
-    $(LOCAL_DIR)/lineage_jason.mk
+    $(LOCAL_DIR)/aospa_jason.mk
 
 COMMON_LUNCH_CHOICES := \
-    lineage_jason-user \
-    lineage_jason-userdebug \
-    lineage_jason-eng
+    aospa_jason-user \
+    aospa_jason-userdebug \
+    aospa_jason-eng
